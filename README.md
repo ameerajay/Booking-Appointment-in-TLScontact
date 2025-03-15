@@ -12,12 +12,12 @@ usage: TLScontact.py [-h] [-d DELAY] [-v] login password country city month day
 Script to check the available appointment of TLScontact.
 
 positional arguments:
-  login                      TLScontact login (e-mail address)
-  password                   TLScontact password
-  country                    The country code of your application center (gb for the UK)
-  city                       The city code of your application center (LON for London)
-  month                      The latest acceptable month
-  day                        The latest acceptable day
+  login                      ameerajayman@gmail.com
+  password                   Waterparx2!
+  country                    gb
+  city                       LON
+  month                      April
+  day                        01
 
 optional arguments:
   -h, --help                 show this help message and exit
